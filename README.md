@@ -86,6 +86,8 @@ Maven users can use:
   <version>0.13.0</version>
 </dependency>
 
+```
+
 Run Program
 Compile and run Main.java. It will read from data.csv, and generate top N recommendations for a given user.
 
